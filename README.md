@@ -7,7 +7,7 @@ Get the list feeds for the user from his followers and the people who he is foll
 The Application is built using MVVM(Model View view Model) Architecture using SwiftUI and Combine Frameworks.
 
 It contains 4 tabs.
-# Home - Contains feed from
+# Home - Contains feed from his network.
     New Tweet - User can tweet a new post in the form of text, photo, video
 # Explore - Explore/Search the desired posts
 # Communities - Feeds/Posts from the group the user os part of.
