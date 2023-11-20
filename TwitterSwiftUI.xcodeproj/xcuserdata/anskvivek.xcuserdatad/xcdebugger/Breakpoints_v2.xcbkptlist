@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6B337B46-E636-4376-BA25-2CE5EB750315"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCADA2CC-EA18-4B1B-92DD-A2C3CE25C356"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/SideMenu/Views/SideMenuView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BCADA2CC-EA18-4B1B-92DD-A2C3CE25C356 - f6538dc48724e92e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.foregroundStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text, SwiftUI.Spacer)&gt; in closure #2 (TwitterSwiftUI.SideMenuViewModel) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in TwitterSwiftUI.SideMenuView.body.getter : some"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/TwitterSwiftUI/TwitterSwiftUI/Core/SideMenu/Views/SideMenuView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "BCADA2CC-EA18-4B1B-92DD-A2C3CE25C356 - 6d3c7bd8ac5c453a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; TwitterSwiftUI.ProfileView in closure #2 (TwitterSwiftUI.SideMenuViewModel) -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.NavigationLink&lt;TwitterSwiftUI.SideMenuRowOptionView, TwitterSwiftUI.ProfileView&gt;, SwiftUI.EmptyView&gt;, TwitterSwiftUI.SideMenuRowOptionView&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in TwitterSwiftUI.SideMenuView.body.getter : some"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/TwitterSwiftUI/TwitterSwiftUI/Core/SideMenu/Views/SideMenuView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "BCADA2CC-EA18-4B1B-92DD-A2C3CE25C356 - 564c5375b9e915fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; TwitterSwiftUI.ProfileView in closure #2 (TwitterSwiftUI.SideMenuViewModel) -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.NavigationLink&lt;TwitterSwiftUI.SideMenuRowOptionView, TwitterSwiftUI.ProfileView&gt;, SwiftUI.Button&lt;TwitterSwiftUI.SideMenuRowOptionView&gt;&gt;, TwitterSwiftUI.SideMenuRowOptionView&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in TwitterSwiftUI.SideMenuView.body.getter : some"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/SideMenu/Views/SideMenuView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "400EA28E-8338-4344-BC18-8B1725ECAD20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/Profile/Views/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "400EA28E-8338-4344-BC18-8B1725ECAD20 - bf1ccebb115480e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterSwiftUI.ProfileView.body.getter : some"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/TwitterSwiftUI/TwitterSwiftUI/Core/Profile/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "400EA28E-8338-4344-BC18-8B1725ECAD20 - 5d8e65b74ef7a4af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.headerView : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.actionButtons : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.userInfoDetails : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.tweetFilterBar : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.tweetsView : some&gt;&gt;.0, SwiftUI.Spacer)&gt; in TwitterSwiftUI.ProfileView.body.getter : some"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/TwitterSwiftUI/TwitterSwiftUI/Core/Profile/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "400EA28E-8338-4344-BC18-8B1725ECAD20 - 2b4cab6246d3baa1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterSwiftUI.ProfileView.body.getter : some"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Profile/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "400EA28E-8338-4344-BC18-8B1725ECAD20 - c9de006e19709ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.headerView : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.actionButtons : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.userInfoDetails : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.tweetFilterBar : some&gt;&gt;.0, &lt;&lt;opaque return type of TwitterSwiftUI.ProfileView.tweetsView : some&gt;&gt;.0, SwiftUI.Spacer)&gt; in TwitterSwiftUI.ProfileView.body.getter : some"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Profile/Views/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDE92B9A-5271-49CB-8983-450231B70388"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34D97599-E64E-4575-AD19-CDAB966826C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34D97599-E64E-4575-AD19-CDAB966826C8 - fb7b0e51f628c862"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "34D97599-E64E-4575-AD19-CDAB966826C8 - 4be1f2794158a66a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F216572-4876-45AA-A2F0-54B48192C98C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "434CE73C-030B-4677-8CB2-2A4B8FDAF758"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "434CE73C-030B-4677-8CB2-2A4B8FDAF758 - 3ac04957c73cfd20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "434CE73C-030B-4677-8CB2-2A4B8FDAF758 - 3ac04957c73cfd20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9417A1D-C843-4FC0-836E-9EC8B2677C45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC9D1B1D-D74C-4303-AD86-06F7A8B160C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC9D1B1D-D74C-4303-AD86-06F7A8B160C3 - eb14f04454c1d1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "BC9D1B1D-D74C-4303-AD86-06F7A8B160C3 - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "BC9D1B1D-D74C-4303-AD86-06F7A8B160C3 - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "640B66C4-FF08-43EB-A34E-3BF59454825D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "640B66C4-FF08-43EB-A34E-3BF59454825D - b6be81a06ad34509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "640B66C4-FF08-43EB-A34E-3BF59454825D - b6be81a06ad34509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "640B66C4-FF08-43EB-A34E-3BF59454825D - b6be81a06ad34509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDA27555-B7B1-4F04-8E09-920BDFEC2FF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DDA27555-B7B1-4F04-8E09-920BDFEC2FF7 - b6be81a06ad3454b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "DDA27555-B7B1-4F04-8E09-920BDFEC2FF7 - b6be81a06ad3454b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8A23F37-D984-4220-B66B-F784DB650136"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8A23F37-D984-4220-B66B-F784DB650136 - 3ac04957c73cf102"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2468">
+               </Location>
+               <Location
+                  uuid = "E8A23F37-D984-4220-B66B-F784DB650136 - 1b36e3612e71d782"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D02ACEB-CEEE-428D-B98F-893DFF57D28A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D02ACEB-CEEE-428D-B98F-893DFF57D28A - eb14f04454c1d1d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "9D02ACEB-CEEE-428D-B98F-893DFF57D28A - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "9D02ACEB-CEEE-428D-B98F-893DFF57D28A - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06E53FA9-49F7-4D61-A4EA-FCDAE3155ACE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "06E53FA9-49F7-4D61-A4EA-FCDAE3155ACE - 3ac04957c73cfcfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+               <Location
+                  uuid = "06E53FA9-49F7-4D61-A4EA-FCDAE3155ACE - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "06E53FA9-49F7-4D61-A4EA-FCDAE3155ACE - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C021C93-5D7A-4DF2-8E95-6430C7B04C7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C021C93-5D7A-4DF2-8E95-6430C7B04C7C - 3ac04957c73cff12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+               <Location
+                  uuid = "4C021C93-5D7A-4DF2-8E95-6430C7B04C7C - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "4C021C93-5D7A-4DF2-8E95-6430C7B04C7C - 63e0092739b859be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) -&gt; Foundation.Data in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25CA5B87-670D-45C9-9D06-47A387D25FA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25CA5B87-670D-45C9-9D06-47A387D25FA8 - b6be81a06ad344b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "25CA5B87-670D-45C9-9D06-47A387D25FA8 - b6be81a06ad344b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81744BD0-5F76-4A0F-B708-7618884F84A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81744BD0-5F76-4A0F-B708-7618884F84A4 - b6be81a06ad34495"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "784">
+               </Location>
+               <Location
+                  uuid = "81744BD0-5F76-4A0F-B708-7618884F84A4 - b6be81a06ad34495"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CD65CF5-E967-4996-B3A6-91440CCD1628"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9CD65CF5-E967-4996-B3A6-91440CCD1628 - b6be81a06ad344d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "9CD65CF5-E967-4996-B3A6-91440CCD1628 - b6be81a06ad344f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A61994B-D021-4CD1-91A5-A75D5FC19336"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A61994B-D021-4CD1-91A5-A75D5FC19336 - b6be81a06ad344d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "9A61994B-D021-4CD1-91A5-A75D5FC19336 - b6be81a06ad344d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7472C645-FD42-4C9F-9F6C-6EBD801B6BE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7472C645-FD42-4C9F-9F6C-6EBD801B6BE1 - 1b36e3612e71d82f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "7472C645-FD42-4C9F-9F6C-6EBD801B6BE1 - b6be81a06ad34472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43CBDBBE-6244-4E86-BBC8-47CD5FC95B4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "getData(url:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43CBDBBE-6244-4E86-BBC8-47CD5FC95B4B - b6be81a06ad34430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "43CBDBBE-6244-4E86-BBC8-47CD5FC95B4B - 1b36e3612e71d80e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;&#x3c4;_0_0&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "43CBDBBE-6244-4E86-BBC8-47CD5FC95B4B - b6be81a06ad34430"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 ((Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; () in TwitterSwiftUI.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.Optional&lt;Foundation.URL&gt;, type: &#x3c4;_0_0.Type) -&gt; Combine.Future&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "784">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D1140D8-33AA-46A2-ADB6-9C4D05A8C6E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D1140D8-33AA-46A2-ADB6-9C4D05A8C6E6 - 341c66df7db18af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "5D1140D8-33AA-46A2-ADB6-9C4D05A8C6E6 - 341c66df7db18af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09E15124-2FF0-465D-BBA8-237FBD78ED9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09E15124-2FF0-465D-BBA8-237FBD78ED9C - 341c66df7db18a97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "09E15124-2FF0-465D-BBA8-237FBD78ED9C - 341c66df7db18a97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "608">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9BF9916-69CA-4E97-8DBC-91F6AE3C60D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9BF9916-69CA-4E97-8DBC-91F6AE3C60D2 - 341c66df7db18ab6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "D9BF9916-69CA-4E97-8DBC-91F6AE3C60D2 - bcecb572238539d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TwitterSwiftUI.Post) -&gt; () in closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "D9BF9916-69CA-4E97-8DBC-91F6AE3C60D2 - 341c66df7db18ab6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E55FCE79-505F-4308-85E3-2D34A3437D1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E55FCE79-505F-4308-85E3-2D34A3437D1F - bcecb5722385392c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TwitterSwiftUI.Post) -&gt; () in closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "E55FCE79-505F-4308-85E3-2D34A3437D1F - 341c66df7db18a49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "E55FCE79-505F-4308-85E3-2D34A3437D1F - bcecb5722385392c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TwitterSwiftUI.Post) -&gt; () in closure #2 (Swift.Array&lt;TwitterSwiftUI.TimeLine&gt;) -&gt; () in TwitterSwiftUI.FeedViewModel.getData() -&gt; ()"
+                  moduleName = "TwitterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anskvivek/Documents/Clones/Task/TwitterSwiftUI/TwitterSwiftUI/Core/Feed/ViewModels/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
